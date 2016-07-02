@@ -1,0 +1,14 @@
+layout_spectrum: 0.1383410505950451
+typography_spectrum: 0.4552442883141339
+color:
+  brandStrength: 0.8478198437951505
+  lightness: 0.11858538165688515
+  saturation: 0.15943331853486598
+  rhythmicContrast: 0.4442552742548287
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: The Churn of the Century
