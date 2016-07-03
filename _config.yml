@@ -1,4 +1,3 @@
-layout_spectrum: 0.1383410505950451
 typography_spectrum: 0.4552442883141339
 color:
   brandStrength: 0.8478198437951505
@@ -11,4 +10,10 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-name: The Churn of the Century
+layout_spectrum: 0.1383410505950451
+author:
+  name: Zak Accuardi
+  email: zaccuardi+thegrid@gmail.com
+  url: 'http://www.twitter.com/zaccuardi'
+name: Churning Man
+title: 99% ice cream
